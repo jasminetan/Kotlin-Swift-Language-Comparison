@@ -3,6 +3,10 @@ CS4330 Final Project
 
 ## Team Members
 Riley Evans
+Connor Penrod
+Jasmine Tan
+Melissa Hollingshed
+Jacob Sokora
 
 ## Kotlin Documentation
 * [Language Purpose](Kotlin-Documentation/LanguagePurpose.md)
