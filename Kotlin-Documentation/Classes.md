@@ -25,7 +25,7 @@ class Dog(breed: String) {
 ```
 You can also declare properties from within the primary constructor with val and var as follows
 ```kotlin
-class Dog(val breed: String, var name: String, var age: int) {
+class Dog(val breed: String, var name: String, var age: Int) {
 
 }
 ```
