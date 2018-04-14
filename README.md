@@ -18,7 +18,7 @@ Jacob Sokora
 * [Name spaces](Kotlin-Documentation/NameSpaces.md) :heavy_check_mark:
 * [Types](Kotlin-Documentation/Types.md) :heavy_check_mark:
 * [Classes](Kotlin-Documentation/Classes.md) :heavy_check_mark:
-* [Instance reference name in data type (class)](Kotlin-Documentation/InstanceReferenceNameInDataType.md)
+* [Instance reference name in data type (class)](Kotlin-Documentation/InstanceReferenceNameInDataType.md) :heavy_check_mark:
 * [Properties](Kotlin-Documentation/Properties.md)
 * [Interfaces / protocols](Kotlin-Documentation/InterfacesProtocols.md)
 * [Inheritance / extension](Kotlin-Documentation/InheritanceExtension.md)
