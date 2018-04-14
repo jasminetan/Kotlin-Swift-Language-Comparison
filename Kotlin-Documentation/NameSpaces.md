@@ -1,4 +1,4 @@
-**Namespaces**, called **Packages** in Kotlin, are used to bundle up the classes and functions of a source file for use in another file.
+Although Kotlin does not strictly have Namespaces, it does have a very similar construct, called **Packages**. Packages in Kotlin are used to bundle up the classes and functions of a source file for use in another file.
 
 To create a package, use the *package* keyword followed by its name:
 
