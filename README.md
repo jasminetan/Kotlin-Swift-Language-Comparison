@@ -15,31 +15,31 @@ Jacob Sokora
 ## Kotlin Documentation
 * [Language Purpose](Kotlin-Documentation/LanguagePurpose.md)
 * [Unique features of the language](Kotlin-Documentation/UniqueFeatures.md)
-* [Name spaces](Kotlin-Documentation/NameSpaces.md)
-* [Types](Kotlin-Documentation/Types.md)
-* [Classes](Kotlin-Documentation/Classes.md)
+* [Name spaces](Kotlin-Documentation/NameSpaces.md) :heavy_check_mark:
+* [Types](Kotlin-Documentation/Types.md) :heavy_check_mark:
+* [Classes](Kotlin-Documentation/Classes.md) :heavy_check_mark:
 * [Instance reference name in data type (class)](Kotlin-Documentation/InstanceReferenceNameInDataType.md)
 * [Properties](Kotlin-Documentation/Properties.md)
 * [Interfaces / protocols](Kotlin-Documentation/InterfacesProtocols.md)
 * [Inheritance / extension](Kotlin-Documentation/InheritanceExtension.md)
 * [Reflection](Kotlin-Documentation/Reflection.md)
-* [Memory management](Kotlin-Documentation/MemoryManagement.md)
-* [Comparisons of references and values](Kotlin-Documentation/ComparisonsOfReferencesAndValues.md)
-* [Null/nil references](Kotlin-Documentation/NullReferences.md)
-* [Errors and exception handling](Kotlin-Documentation/ErrorsExceptionHandling.md)
+* [Memory management](Kotlin-Documentation/MemoryManagement.md) :heavy_check_mark:
+* [Comparisons of references and values](Kotlin-Documentation/ComparisonsOfReferencesAndValues.md) :heavy_check_mark:
+* [Null/nil references](Kotlin-Documentation/NullReferences.md) :heavy_check_mark:
+* [Errors and exception handling](Kotlin-Documentation/ErrorsExceptionHandling.md) :heavy_check_mark:
 * [Lambda expressions, closures, or functions as types](Kotlin-Documentation/LambdaExpressionsClosuresFunctionsAsTypes.md)
 * [Implementation of listeners and event handlers](Kotlin-Documentation/ListenersAndEventHandlers.md)
-* [Singleton](Kotlin-Documentation/Singleton.md)
-* [Procedural programming](Kotlin-Documentation/ProceduralProgramming.md)
-* [Functional programming](Kotlin-Documentation/FunctionalProgramming.md)
+* [Singleton](Kotlin-Documentation/Singleton.md) :heavy_check_mark:
+* [Procedural programming](Kotlin-Documentation/ProceduralProgramming.md) :heavy_check_mark:
+* [Functional programming](Kotlin-Documentation/FunctionalProgramming.md) :heavy_check_mark:
 * [Multithreading](Kotlin-Documentation/Multithreading.md)
 
 ## Swift Documentation
 * [Language Purpose](Swift-Documentation/LanguagePurpose.md)<br/>
 * [Unique features of the language](Swift-Documentation/UniqueFeatures.md)
 * [Name spaces](Swift-Documentation/NameSpaces.md)
-* [Types](Swift-Documentation/Types.md)
-* [Classes](Swift-Documentation/Classes.md)
+* [Types](Swift-Documentation/Types.md) :heavy_check_mark:
+* [Classes](Swift-Documentation/Classes.md) :heavy_check_mark:
 * [Instance reference name in data type (class)](Swift-Documentation/InstanceReferenceNameInDataType.md)
 * [Properties](Swift-Documentation/Properties.md)
 * [Interfaces / protocols](Swift-Documentation/InterfacesProtocols.md)
