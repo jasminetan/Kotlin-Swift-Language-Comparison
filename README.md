@@ -40,18 +40,18 @@ Jacob Sokora
 * [Name spaces](Swift-Documentation/NameSpaces.md)
 * [Types](Swift-Documentation/Types.md) :heavy_check_mark:
 * [Classes](Swift-Documentation/Classes.md) :heavy_check_mark:
-* [Instance reference name in data type (class)](Swift-Documentation/InstanceReferenceNameInDataType.md)
+* [Instance reference name in data type (class)](Swift-Documentation/InstanceReferenceNameInDataType.md) :heavy_check_mark:
 * [Properties](Swift-Documentation/Properties.md)
 * [Interfaces / protocols](Swift-Documentation/InterfacesProtocols.md)
 * [Inheritance / extension](Swift-Documentation/InheritanceExtension.md)
 * [Reflection](Swift-Documentation/Reflection.md)
-* [Memory management](Swift-Documentation/MemoryManagement.md)
-* [Comparisons of references and values](Swift-Documentation/ComparisonsOfReferencesAndValues.md)
+* [Memory management](Swift-Documentation/MemoryManagement.md) :heavy_check_mark:
+* [Comparisons of references and values](Swift-Documentation/ComparisonsOfReferencesAndValues.md) :heavy_check_mark:
 * [Null/nil references](Swift-Documentation/NullReferences.md)
-* [Errors and exception handling](Swift-Documentation/ErrorsExceptionHandling.md)
+* [Errors and exception handling](Swift-Documentation/ErrorsExceptionHandling.md) :heavy_check_mark:
 * [Lambda expressions, closures, or functions as types](Swift-Documentation/LambdaExpressionsClosuresFunctionsAsTypes.md)
 * [Implementation of listeners and event handlers](Swift-Documentation/ListenersAndEventHandlers.md)
-* [Singleton](Swift-Documentation/Singleton.md)
+* [Singleton](Swift-Documentation/Singleton.md) :heavy_check_mark:
 * [Procedural programming](Swift-Documentation/ProceduralProgramming.md)
 * [Functional programming](Swift-Documentation/FunctionalProgramming.md)
 * [Multithreading](Swift-Documentation/Multithreading.md)
