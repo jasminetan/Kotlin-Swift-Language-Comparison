@@ -1,3 +1,7 @@
-How is a singleton implemented?
-Can it be made thread-safe?
-Can the singleton instance be lazily instantiated?
+Singletons in Swift are almost as easy as they are in Kotlin, and are also thread-safe and lazily instantiated.
+
+```
+class ASingleton {
+    static let sharedInstance = ASingleton()
+}
+```
