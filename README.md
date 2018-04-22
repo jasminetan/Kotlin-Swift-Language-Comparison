@@ -44,7 +44,7 @@ Jacob Sokora
 * [Properties](Swift-Documentation/Properties.md)
 * [Interfaces / protocols](Swift-Documentation/InterfacesProtocols.md)
 * [Inheritance / extension](Swift-Documentation/InheritanceExtension.md)
-* [Reflection](Swift-Documentation/Reflection.md)
+* [Reflection](Swift-Documentation/Reflection.md) :heavy_check_mark:
 * [Memory management](Swift-Documentation/MemoryManagement.md) :heavy_check_mark:
 * [Comparisons of references and values](Swift-Documentation/ComparisonsOfReferencesAndValues.md) :heavy_check_mark:
 * [Null/nil references](Swift-Documentation/NullReferences.md)
