@@ -1,4 +1,4 @@
-# How are values compared? (i.e. comparing two strings) *** In progress ***
+# How are values compared? (i.e. comparing two strings) 
 ## Swift supports all standard C comparison operators
 
 - Equal to (a == b)
