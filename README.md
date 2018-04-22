@@ -42,7 +42,7 @@ Jacob Sokora
 * [Classes](Swift-Documentation/Classes.md) :heavy_check_mark:
 * [Instance reference name in data type (class)](Swift-Documentation/InstanceReferenceNameInDataType.md) :heavy_check_mark:
 * [Properties](Swift-Documentation/Properties.md)
-* [Interfaces / protocols](Swift-Documentation/InterfacesProtocols.md)
+* [Interfaces / protocols](Swift-Documentation/InterfacesProtocols.md) :heavy_check_mark:
 * [Inheritance / extension](Swift-Documentation/InheritanceExtension.md)
 * [Reflection](Swift-Documentation/Reflection.md) :heavy_check_mark:
 * [Memory management](Swift-Documentation/MemoryManagement.md) :heavy_check_mark:
