@@ -49,7 +49,7 @@ Jacob Sokora
 * [Comparisons of references and values](Swift-Documentation/ComparisonsOfReferencesAndValues.md) :heavy_check_mark:
 * [Null/nil references](Swift-Documentation/NullReferences.md)
 * [Errors and exception handling](Swift-Documentation/ErrorsExceptionHandling.md) :heavy_check_mark:
-* [Lambda expressions, closures, or functions as types](Swift-Documentation/LambdaExpressionsClosuresFunctionsAsTypes.md)
+* [Lambda expressions, closures, or functions as types](Swift-Documentation/LambdaExpressionsClosuresFunctionsAsTypes.md) :heavy_check_mark:
 * [Implementation of listeners and event handlers](Swift-Documentation/ListenersAndEventHandlers.md)
 * [Singleton](Swift-Documentation/Singleton.md) :heavy_check_mark:
 * [Procedural programming](Swift-Documentation/ProceduralProgramming.md)
