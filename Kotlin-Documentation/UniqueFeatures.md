@@ -11,13 +11,15 @@ Example:
 
 ```Kotlin
 var output: String
-output = null   // Compilation error```
+output = null   // Compilation error
+```
 
 Kotlin protects you from mistakenly operating on nullable types
 
 ```Kotlin 
 val name: String? = null    // Nullable type
-println(name.length())      // Compilation error```
+println(name.length())      // Compilation error
+```
 
 - No raw types
 - Arrays in Kotlin are invariant
@@ -34,11 +36,13 @@ If a type is right, the compiler will auto-cast it for you
 fun calculateTotal(obj: Any) {
     if (obj is Invoice)
         obj.calculateTotal()
-}```
+}
+```
 
 - data classes
 
 As developers, we create classes whose main purpose is to hold data. In such a class some standard functionality and utility functions are often mechanically derivable from the data. In Kotlin, this is called a data class and is marked as data:
 
 ```Kotlin
-data class User(val name: String, val age: Int)```
+data class User(val name: String, val age: Int)
+```
