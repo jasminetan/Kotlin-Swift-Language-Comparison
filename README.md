@@ -12,6 +12,8 @@ Melissa Hollingshed
 
 Jacob Sokora
 
+Kolbe Washington 
+
 ## Kotlin Documentation
 * [Language Purpose](Kotlin-Documentation/LanguagePurpose.md) :heavy_check_mark:
 * [Unique features of the language](Kotlin-Documentation/UniqueFeatures.md) :heavy_check_mark:
