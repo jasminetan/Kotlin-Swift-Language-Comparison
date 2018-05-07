@@ -38,14 +38,14 @@ Kolbe Washington
 
 ## Swift Documentation
 * [Language Purpose](Swift-Documentation/LanguagePurpose.md) :heavy_check_mark: <br/>
-* [Unique features of the language](Swift-Documentation/UniqueFeatures.md)
+* [Unique features of the language](Swift-Documentation/UniqueFeatures.md) :heavy_check_mark:
 * [Name spaces](Swift-Documentation/NameSpaces.md) :heavy_check_mark: 
 * [Types](Swift-Documentation/Types.md) :heavy_check_mark:
 * [Classes](Swift-Documentation/Classes.md) :heavy_check_mark:
 * [Instance reference name in data type (class)](Swift-Documentation/InstanceReferenceNameInDataType.md) :heavy_check_mark:
-* [Properties](Swift-Documentation/Properties.md)
+* [Properties](Swift-Documentation/Properties.md) :heavy_check_mark:
 * [Interfaces / protocols](Swift-Documentation/InterfacesProtocols.md) :heavy_check_mark:
-* [Inheritance / extension](Swift-Documentation/InheritanceExtension.md)
+* [Inheritance / extension](Swift-Documentation/InheritanceExtension.md) :heavy_check_mark:
 * [Reflection](Swift-Documentation/Reflection.md) :heavy_check_mark:
 * [Memory management](Swift-Documentation/MemoryManagement.md) :heavy_check_mark:
 * [Comparisons of references and values](Swift-Documentation/ComparisonsOfReferencesAndValues.md) :heavy_check_mark:
@@ -55,5 +55,5 @@ Kolbe Washington
 * [Implementation of listeners and event handlers](Swift-Documentation/ListenersAndEventHandlers.md)
 * [Singleton](Swift-Documentation/Singleton.md) :heavy_check_mark:
 * [Procedural programming](Swift-Documentation/ProceduralProgramming.md) :heavy_check_mark:
-* [Functional programming](Swift-Documentation/FunctionalProgramming.md)
-* [Multithreading](Swift-Documentation/Multithreading.md)
+* [Functional programming](Swift-Documentation/FunctionalProgramming.md) :heavy_check_mark:
+* [Multithreading](Swift-Documentation/Multithreading.md) :heavy_check_mark:
