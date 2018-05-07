@@ -22,7 +22,7 @@ Jacob Sokora
 * [Properties](Kotlin-Documentation/Properties.md)
 * [Interfaces / protocols](Kotlin-Documentation/InterfacesProtocols.md)
 * [Inheritance / extension](Kotlin-Documentation/InheritanceExtension.md)
-* [Reflection](Kotlin-Documentation/Reflection.md)
+* [Reflection](Kotlin-Documentation/Reflection.md) :heavy_check_mark:
 * [Memory management](Kotlin-Documentation/MemoryManagement.md) :heavy_check_mark:
 * [Comparisons of references and values](Kotlin-Documentation/ComparisonsOfReferencesAndValues.md) :heavy_check_mark:
 * [Null/nil references](Kotlin-Documentation/NullReferences.md) :heavy_check_mark:
