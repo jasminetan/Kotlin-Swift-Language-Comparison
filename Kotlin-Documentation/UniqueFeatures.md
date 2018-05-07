@@ -9,13 +9,15 @@ But, there are some differences between Java and Kotlin that make Kotlin even mo
 - Null references are controlled by the type system.
 Example: 
 
-`var output: String
-output = null   // Compilation error`
+```Kotlin
+var output: String
+output = null   // Compilation error```
 
 Kotlin protects you from mistakenly operating on nullable types
 
-`val name: String? = null    // Nullable type
-println(name.length())      // Compilation error`
+```Kotlin 
+val name: String? = null    // Nullable type
+println(name.length())      // Compilation error```
 
 - No raw types
 - Arrays in Kotlin are invariant
@@ -28,13 +30,15 @@ Other features include
 
 If a type is right, the compiler will auto-cast it for you
 
-`fun calculateTotal(obj: Any) {
+```Kotlin
+fun calculateTotal(obj: Any) {
     if (obj is Invoice)
         obj.calculateTotal()
-}`
+}```
 
 - data classes
 
 As developers, we create classes whose main purpose is to hold data. In such a class some standard functionality and utility functions are often mechanically derivable from the data. In Kotlin, this is called a data class and is marked as data:
 
-`data class User(val name: String, val age: Int)`
+```Kotlin
+data class User(val name: String, val age: Int)```
