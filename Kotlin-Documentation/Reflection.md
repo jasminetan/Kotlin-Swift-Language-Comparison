@@ -17,7 +17,8 @@ In short you can do:
 The most basic reflection feature is getting the runtime reference to a Kotlin class. To obtain the reference to a statically known Kotlin class, you can use the class literal syntax:
 
 ```Kotlin 
-val c = MyClass::class```
+val c = MyClass::class 
+```
 
 The reference is a value of type KClass.
 
