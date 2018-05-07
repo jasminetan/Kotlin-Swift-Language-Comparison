@@ -12,7 +12,7 @@ Melissa Hollingshed
 
 Jacob Sokora
 
-Kolbe Washington 
+Kolbe Weathington 
 
 ## Kotlin Documentation
 * [Language Purpose](Kotlin-Documentation/LanguagePurpose.md) :heavy_check_mark:
