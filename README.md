@@ -13,8 +13,8 @@ Melissa Hollingshed
 Jacob Sokora
 
 ## Kotlin Documentation
-* [Language Purpose](Kotlin-Documentation/LanguagePurpose.md)
-* [Unique features of the language](Kotlin-Documentation/UniqueFeatures.md)
+* [Language Purpose](Kotlin-Documentation/LanguagePurpose.md) :heavy_check_mark:
+* [Unique features of the language](Kotlin-Documentation/UniqueFeatures.md) :heavy_check_mark:
 * [Name spaces](Kotlin-Documentation/NameSpaces.md) :heavy_check_mark:
 * [Types](Kotlin-Documentation/Types.md) :heavy_check_mark:
 * [Classes](Kotlin-Documentation/Classes.md) :heavy_check_mark:
@@ -35,9 +35,9 @@ Jacob Sokora
 * [Multithreading](Kotlin-Documentation/Multithreading.md)
 
 ## Swift Documentation
-* [Language Purpose](Swift-Documentation/LanguagePurpose.md)<br/>
+* [Language Purpose](Swift-Documentation/LanguagePurpose.md) :heavy_check_mark: <br/>
 * [Unique features of the language](Swift-Documentation/UniqueFeatures.md)
-* [Name spaces](Swift-Documentation/NameSpaces.md)
+* [Name spaces](Swift-Documentation/NameSpaces.md) :heavy_check_mark: 
 * [Types](Swift-Documentation/Types.md) :heavy_check_mark:
 * [Classes](Swift-Documentation/Classes.md) :heavy_check_mark:
 * [Instance reference name in data type (class)](Swift-Documentation/InstanceReferenceNameInDataType.md) :heavy_check_mark:
