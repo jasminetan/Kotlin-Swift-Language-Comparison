@@ -22,7 +22,7 @@ Above the function combine takes the parameters of type R and T and returns type
 Lamda functions are not named or declared but instead passed immediately as an expression. Lamba epressions are surrounded by **{}** brackets intantiated like so
 
 ```swift
-maxValue(stuff , {a , b -> a.value > b.value})
+maxValue("stuff", {a , b -> a.value > b.value})
 ```
 
-The function maxValue is a higher order functin that takes in two parameters, the first being stuff, and the second being a function. 
+The function maxValue is a higher order functin that takes in two parameters, the first being the string "stuff", and the second being a function. 
