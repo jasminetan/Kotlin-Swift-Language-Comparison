@@ -29,7 +29,7 @@ Kolbe Weathington
 * [Comparisons of references and values](Kotlin-Documentation/ComparisonsOfReferencesAndValues.md) :heavy_check_mark:
 * [Null/nil references](Kotlin-Documentation/NullReferences.md) :heavy_check_mark:
 * [Errors and exception handling](Kotlin-Documentation/ErrorsExceptionHandling.md) :heavy_check_mark:
-* [Lambda expressions, closures, or functions as types](Kotlin-Documentation/LambdaExpressionsClosuresFunctionsAsTypes.md)
+* [Lambda expressions, closures, or functions as types](Kotlin-Documentation/LambdaExpressionsClosuresFunctionsAsTypes.md):heavy_check_mark:
 * [Implementation of listeners and event handlers](Kotlin-Documentation/ListenersAndEventHandlers.md)
 * [Singleton](Kotlin-Documentation/Singleton.md) :heavy_check_mark:
 * [Procedural programming](Kotlin-Documentation/ProceduralProgramming.md) :heavy_check_mark:
