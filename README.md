@@ -21,7 +21,7 @@ Kolbe Weathington
 * [Types](Kotlin-Documentation/Types.md) :heavy_check_mark:
 * [Classes](Kotlin-Documentation/Classes.md) :heavy_check_mark:
 * [Instance reference name in data type (class)](Kotlin-Documentation/InstanceReferenceNameInDataType.md) :heavy_check_mark:
-* [Properties](Kotlin-Documentation/Properties.md)
+* [Properties](Kotlin-Documentation/Properties.md):heavy_check_mark:
 * [Interfaces / protocols](Kotlin-Documentation/InterfacesProtocols.md) :heavy_check_mark:
 * [Inheritance / extension](Kotlin-Documentation/InheritanceExtension.md) :heavy_check_mark:
 * [Reflection](Kotlin-Documentation/Reflection.md) :heavy_check_mark:
