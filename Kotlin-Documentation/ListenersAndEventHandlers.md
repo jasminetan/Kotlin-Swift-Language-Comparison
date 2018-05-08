@@ -11,4 +11,4 @@ exitScreen.setOnClickListener(object : Screen.OnClickListener {
 ```
 
 The above function adds an on click listeners to the **exitScreen** object. After 
-checking if null the overidden **onClick** function calls another function called **close()** where the request is handled. Here the method **onClick()** acts as the events handler.
+checking if null the overidden **onClick()** function calls another function called **close()** where the request is handled. Here the method **onClick()** acts as the events handler.
