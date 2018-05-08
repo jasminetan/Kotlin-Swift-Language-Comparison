@@ -34,7 +34,7 @@ Kolbe Weathington
 * [Singleton](Kotlin-Documentation/Singleton.md) :heavy_check_mark:
 * [Procedural programming](Kotlin-Documentation/ProceduralProgramming.md) :heavy_check_mark:
 * [Functional programming](Kotlin-Documentation/FunctionalProgramming.md) :heavy_check_mark:
-* [Multithreading](Kotlin-Documentation/Multithreading.md)
+* [Multithreading](Kotlin-Documentation/Multithreading.md):heavy_check_mark:
 
 ## Swift Documentation
 * [Language Purpose](Swift-Documentation/LanguagePurpose.md) :heavy_check_mark: <br/>
