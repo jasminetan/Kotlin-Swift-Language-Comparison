@@ -52,7 +52,7 @@ Kolbe Weathington
 * [Null/nil references](Swift-Documentation/NullReferences.md) :heavy_check_mark:
 * [Errors and exception handling](Swift-Documentation/ErrorsExceptionHandling.md) :heavy_check_mark:
 * [Lambda expressions, closures, or functions as types](Swift-Documentation/LambdaExpressionsClosuresFunctionsAsTypes.md) :heavy_check_mark:
-* [Implementation of listeners and event handlers](Swift-Documentation/ListenersAndEventHandlers.md)
+* [Implementation of listeners and event handlers](Swift-Documentation/ListenersAndEventHandlers.md):heavy_check_mark:
 * [Singleton](Swift-Documentation/Singleton.md) :heavy_check_mark:
 * [Procedural programming](Swift-Documentation/ProceduralProgramming.md) :heavy_check_mark:
 * [Functional programming](Swift-Documentation/FunctionalProgramming.md) :heavy_check_mark:
